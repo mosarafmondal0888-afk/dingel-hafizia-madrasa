@@ -1,0 +1,4 @@
+@media print{
+.sidebar,.topbar,.head button,.toolbar,.iconbtn,.btn,.quick,.toast{display:none!important}
+.main{margin:0}.main>section{padding:0}.card,.stat{box-shadow:none;border:1px solid #ddd}.hero{background:#fff!important;color:#000;border:1px solid #ddd}.hero p{color:#333}
+}
