@@ -1,0 +1,19 @@
+FINAL SETUP
+[ ] Upload complete folder to GitHub
+[ ] Replace Firebase config
+[ ] Enable Firestore
+[ ] Enable Authentication if required
+[ ] Apply rules
+[ ] Add madrasa settings
+[ ] Add classes
+[ ] Add students
+[ ] Test fee + due + receipt
+[ ] Test income + expense
+[ ] Test accounts
+[ ] Test attendance
+[ ] Test result
+[ ] Test staff + salary
+[ ] Test donor + notice
+[ ] Export backup
+[ ] Test Android and desktop
+[ ] Print test receipt and A4 report
